@@ -1,0 +1,317 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.webhead {
+
+
+    /* height: 75vh; */
+    background-color: blue;
+    background-image: url(/Bismillahir-Donate.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 40px;
+
+}
+
+.div1 {
+    padding: 15%;
+    text-align: center;
+
+
+}
+
+
+.h1 {
+    color: rgb(243, 242, 241);
+    font-size: 50px;
+    /* text-align: center; */
+    padding: 10px;
+}
+
+.p1 {
+    font-size: x-large;
+    color: #fdfdfd;
+    padding-bottom: 35px;
+}
+
+
+.link1 {
+    text-decoration: none;
+    /* text-align: center; */
+    background-image: linear-gradient(#E48610, #FB8F07);
+    padding: 13px;
+    border-radius: 9px;
+    margin-top: 5px;
+    color: aliceblue;
+
+
+}
+
+span {
+    color: #27AE60;
+}
+
+/* secondpatsecondpatsecondpat */
+/* secondpatsecondpatsecondpat */
+/* secondpatsecondpatsecondpat */
+
+.secondpart {
+    text-align: center;
+    height: 42vh;
+    padding-bottom: 30px;
+
+
+}
+
+
+.divflex {
+    display: flex;
+    margin-left: 33%;
+
+
+}
+
+.secondh1 {
+    font-size: xxx-large;
+    margin: 29px;
+
+
+}
+
+.secondp1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 540;
+    margin: 25px;
+}
+
+.flexbox {
+    color: rgb(238, 232, 232);
+
+    background-color: #17202A;
+    padding: 25px;
+    margin: 15px;
+    box-shadow: 2px 4px .1 #A93226;
+    border-top: 2px solid #ff0606;
+    font-weight: 800;
+    border-left: 2px solid #ff0606;
+    align-self: hover;
+
+
+}
+
+.flexbox:hover {
+    background-color: #7F8C8D;
+}
+
+.from1st {
+    border: none;
+}
+
+.input {
+    text-align: center;
+    background-color: #fdfdfd;
+
+    border: none;
+    border-bottom: 1px solid #ABB2B9;
+    margin: 25px;
+    background-size: cover;
+    width: 60vh;
+    height: 30px;
+    padding-top: 10px;
+    outline: none;
+
+}
+
+.seccondlink {
+    text-decoration: none;
+    color: whitesmoke;
+    background-color: #D35400;
+    border-radius: 10px;
+    padding: 15px;
+
+
+
+
+
+}
+
+/* sectionthirdsectionthird */
+/* sectionthirdsectionthird */
+.sectionthird {
+    padding: 10px;
+    height: 58vh;
+    margin: 30px;
+
+
+
+}
+
+.thirddiv1 {
+    text-align: center;
+
+
+}
+
+.thirdh1 {
+    font-size: xxx-large;
+    margin: 29px;
+
+}
+
+.thirdp1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 540;
+    margin: 25px;
+    clear: both;
+
+
+}
+
+.thirddiv2 {
+    display: flex;
+    justify-content: space-between;
+
+    height: 32vh;
+    padding: 0px 45px;
+    clear: both;
+}
+
+/* third div in div third div in div */
+/* third div in div third div in div */
+
+.divin1 {
+    background-color: #FAE5D3;
+    padding: 15px;
+    padding-top: 25px;
+    margin: 10px;
+    text-align: justify;
+
+    overflow: hidden;
+
+
+}
+
+.divin2 {
+    background-color: #D4E6F1;
+    padding: 15px;
+    margin: 10px;
+    text-align: justify;
+    overflow: hidden;
+
+
+}
+
+.divin3 {
+    background-color: #ABB2B9;
+    padding: 15px;
+    margin: 10px;
+    text-align: justify;
+    overflow: hidden;
+
+}
+
+.im {
+    margin-top: 35px;
+}
+
+/* section four */
+
+.sectionfour {
+    min-width: 80vh;
+    min-height: 10%;
+
+    /* clear: both; */
+    overflow: hidden;
+}
+
+.divfour {
+    text-align: center;
+    justify-content: center;
+}
+
+.divfour2 {
+
+    position: relative;
+}
+
+.divfour2 .nm {
+    height: 135px;
+    margin: 2px;
+    padding: 25px;
+    justify-content: space-around;
+
+}
+
+
+
+
+
+
+/* sectionfifsectionfifsectionfif */
+/* sectionfifsectionfifsectionfif */
+
+.fifdiv {
+    min-height: 15vh;
+
+    background-color: #ABEBC6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 25%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+
+
+}
+
+#Lable {
+    position: relative;
+}
+
+#lastinput {
+    border: none;
+    padding: 15px;
+    width: 300px;
+    background-color: rgb(221, 217, 210);
+    border-radius: 10px;
+    outline: none;
+
+}
+
+button {
+    position: absolute;
+    border: none;
+    padding: 15px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    color: white;
+    background-color: #1D8348;
+    border-radius: 10px;
+    outline: none;
+}
+
+
+
+
+
+
+
+
+.footer {
+    background-color: #05070a;
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+
+}
+
+.lasth1 {
+    font-family: 'Lobster', cursive;
+    color: #A93226;
+    margin-bottom: 20px;
+}
